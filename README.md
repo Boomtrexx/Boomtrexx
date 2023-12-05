@@ -12,7 +12,6 @@ Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie Java, Ja
 * 🧠  ich lerne Python
 * 🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots
 * ⚡  Ich habe ein eigenen Discord Server : [Dark ✘ Galaxy]([hhttps://discord.gg/CjU4CrPTcf)
-* https://github.com/Boomtrexx/boomtrexx/actions/workflows/rust.yml/badge.svg
 
 ### Fähigkeiten
 
