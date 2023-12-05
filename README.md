@@ -7,10 +7,10 @@ Entwickler von Website, Discord Bots, usw.
 Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie Java, JavaScript und HTML & CSS.
 
 * 🖥️  Sehe mein Portfolio unter [Meine Homepage](http://inktr.ee/Boomtrex)
-* ✉️  Du kannst mich unter kontaktieren [Boomtrexx@gmail.com](mailto:Boomtrexx@gmail.com)
+* ✉️  Du kannst mich unter [Boomtrexx@gmail.com](mailto:Boomtrexx@gmail.com) kontaktieren
 * 🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/Boomtrexx/say-hello-functions)
 * 🧠  ich lerne Python
-* 🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots Minecraft Plugins und Discord Bots
+* 🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots
 * ⚡  Ich habe ein eigenen Discord Server : discord.gg/WNG2qtHKWQ
 
 ### Fähigkeiten
