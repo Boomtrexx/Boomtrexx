@@ -11,7 +11,7 @@ Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie Java, Ja
 * 🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/Boomtrexx/say-hello-functions)
 * 🧠  ich lerne Python
 * 🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots
-* ⚡  Ich habe ein eigenen Discord Server : [Dark ✘ Galaxy](https://discord.gg/WNG2qtHKWQ)
+* ⚡  Ich habe ein eigenen Discord Server : [Dark ✘ Galaxy]([hhttps://discord.gg/CjU4CrPTcf)
 
 ### Fähigkeiten
 
