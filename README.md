@@ -41,7 +41,7 @@ Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie Java, Ja
 
 ### Abzeichen
 
-<b>Meine GitHub-Statistiken</b>
+## 📊 Meine GitHub-Statistiken
 
 <a href="http://www.github.com/Boomtrexx"><img src="https://github-readme-stats.vercel.app/api?username=Boomtrexx&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Boomtrexx's GitHub stats" /></a>
 
