@@ -1,5 +1,17 @@
+![banner](https://i.imgur.com/uaf65aN.jpg)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Boomtrex
 ================================================================================================================================
+<h3 align = "center"><strong>Entwickler und Gamer auf Youtube👩‍💻 </h3>
+
+<p align="center">
+    <a href="https://www.youtube.com/channel/UCOuMQ_z9lGpnPxiazy-lzbA?sub_confirmation=1">
+      <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/WNG2qtHKWQ" alt="Dark ✘ Galaxy, Ist ein Aktiver Community-Server, mit Tollen Giveaways, Eigene Bots & Co.">
+    <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  </p>
+</p>
+<br>
 
 Entwickler von Website, Discord Bots, usw.
 ------------------------------------------
