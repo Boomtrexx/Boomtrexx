@@ -23,7 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <li>🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/Boomtrexx/say-hello-functions)
 <li>🧠  ich lerne Python
 <li>🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots
-<li>⚡  Ich habe ein eigenen Discord Server : [Dark ✘ Galaxy]([hhttps://discord.gg/CjU4CrPTcf)
+<li>⚡  Ich habe ein eigenen Discord Server : [Dark ✘ Galaxy](https://discord.gg/CjU4CrPTcf)
 <ul>
 </div>
 <br>
