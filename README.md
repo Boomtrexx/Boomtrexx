@@ -21,8 +21,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <li>🖥️  Sehe mein Portfolio unter [Meine Homepage](http://inktr.ee/Boomtrex)
 <li>✉️  Du kannst mich unter [Boomtrexx@gmail.com](mailto:Boomtrexx@gmail.com) kontaktieren
 <li>🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/Boomtrexx/say-hello-functions)
-<li>🧠  ich lerne Python
-<li>🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots
+<li>🧠  ich mache eine Weiterbildung in HTML/CSS
+<li>🤝  Ich bin offen für die Zusammenarbeit an Minecraft Plugins und Discord Bots, FiveM Scripts
 <li>⚡  Ich habe ein eigenen Discord Server : [Dark ✘ Galaxy](https://discord.gg/CjU4CrPTcf)
 <ul>
 </div>
