@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ Über mich <b></h2>
 <ul>  
-<li>(KURZ INFO ÜBER MICH) Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie Java, JavaScript und HTML & CSS.
+<li>(KURZ INFO ÜBER MICH) Ich Code verschiedene Sachen mit verschiedenen Programmiersprachen, wie HTML & CSS.
 <li>🖥️  Sehe mein Portfolio unter [Meine Homepage](http://inktr.ee/Boomtrex)
 <li>✉️  Du kannst mich unter [Boomtrexx@gmail.com](mailto:Boomtrexx@gmail.com) kontaktieren
 <li>🚀  Ich arbeite gerade an [Mein NPM Package](http://github.com/Boomtrexx/say-hello-functions)
