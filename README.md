@@ -47,12 +47,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>  
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/boomtrex)
 <br>
-<br>
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/tiktok-B22236?logo=tiktok&logoColor=white&style=for-the-badge"/>](https://tiktok.com/@boomtrexx)
-<br>
-<br>
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-C8a2c8?logo=instagram&logoColor=white&style=for-the-badge"/>](https://instagram.com/_boomtrex)
-<br>
 </div>
 <br>
 
